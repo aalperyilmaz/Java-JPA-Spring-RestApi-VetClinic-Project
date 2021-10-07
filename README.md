@@ -3,7 +3,7 @@
 
 Veterinary Project RestApi Service
 
-## Languages and Technologies 
+
 
 
 ## Technologies
