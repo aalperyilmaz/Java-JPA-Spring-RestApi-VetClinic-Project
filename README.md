@@ -21,7 +21,7 @@ Veterinary Project RestApi Service
 
 | 🔐 Admin Account | 🗝️ Password |
 | ------------- |:-------------:|
-| alper@mail.com	 | 12345 |
+|``` alper@mail.com```	 | 12345 |
 
 
 ## Application Images
