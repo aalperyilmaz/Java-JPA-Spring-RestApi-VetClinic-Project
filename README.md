@@ -10,11 +10,12 @@ Veterinary Project RestApi Service
 | :arrow_right:| Technologies  | 
 | ------------- |:-------------:|
 | :arrow_right: | Java  | 
-| :arrow_right:| JSP&Servlet   | 
-| :arrow_right: |Hibernate  | 
+| :arrow_right:| REST API   | 
+| :arrow_right: |JPA  | 
 | :arrow_right: | Mysql | 
-| :arrow_right:| BootStrap5  | 
-| :arrow_right: | Ajax | 
+| :arrow_right:| ElasticSearch | 
+| :arrow_right: |Redis | 
+| :arrow_right: |Swagger | 
 
 ## Demo Account
 
